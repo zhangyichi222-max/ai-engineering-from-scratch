@@ -1,0 +1,1 @@
+Ensure the current working directory is clean before switching Git branches.
